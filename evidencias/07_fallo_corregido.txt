@@ -1,0 +1,10 @@
+PRUEBA DE BLOQUEO CONTROLADA
+
+Se creó temporalmente una prueba que intentaba registrar la prioridad no autorizada "inmediata".
+
+test_catalogo_no_autorizado ... ERROR
+ValueError: Prioridad desconocida: inmediata
+Ran 1 test
+FAILED (errors=1)
+
+Interpretación: CI debe rechazar un cambio que contradiga el catálogo autorizado. Se eliminó la prueba temporal y se confirmó nuevamente la versión correcta con 8/8 pruebas aprobadas.
