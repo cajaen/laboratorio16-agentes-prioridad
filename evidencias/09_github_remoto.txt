@@ -1,0 +1,32 @@
+EVIDENCIA REMOTA VERIFICADA - GITHUB
+
+Repositorio:
+https://github.com/cajaen/laboratorio16-agentes-prioridad
+
+Pull request #1:
+https://github.com/cajaen/laboratorio16-agentes-prioridad/pull/1
+Título: Incorporar catálogo de prioridades y filtrado
+Estado final: MERGED
+Commit de merge: 4d5e8bd3a34a28bdc2e2dc4fb97e720a353dba66
+
+Validación del pull request:
+Workflow run: 46041679427
+Job test: PASS (5 s)
+Job delivery: omitido correctamente, porque solo se ejecuta en push a main
+
+Ejecución posterior al merge:
+https://github.com/cajaen/laboratorio16-agentes-prioridad/actions/runs/46041744923
+Evento: push a main
+Estado: completed
+Conclusión: success
+Job test: success
+Job delivery: success
+
+Artefacto publicado:
+Nombre: paquete-lab
+Artifact ID: 15221065561
+Tamaño: 499 bytes
+Expiración: 25 de febrero de 2027
+Digest: sha256:4c5babe930d21aa3f7265a83fa9e9189437be0a96f0b3e5e15d1883c1485e439
+
+La automatización compila tareas.py, crea el paquete y no realiza despliegue.
