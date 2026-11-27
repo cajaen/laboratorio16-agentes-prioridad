@@ -1,0 +1,15 @@
+Comando: python -m unittest discover -s tests -v
+
+test_admite_cada_prioridad ... ok
+test_compatibilidad_asigna_media ... ok
+test_crear_primera_tarea ... ok
+test_filtro_valida_el_nivel ... ok
+test_nivel_fuera_del_catalogo ... ok
+test_pendientes_no_expone_la_lista_original ... ok
+test_rechazar_titulo_sin_contenido ... ok
+test_seleccionar_prioridad ... ok
+
+----------------------------------------------------------------------
+Ran 8 tests in 0.001s
+
+OK

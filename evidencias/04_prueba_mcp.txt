@@ -1,0 +1,5 @@
+Comando: python comprobar_mcp.py
+
+Servidor: CatalogoRequisitosCarlos
+Tool: requisito_prioridad
+Lectura autorizada: La tarea admite prioridad alta, media o baja y usa media cuando no se indica. Una prioridad desconocida produce ValueError. Debe existir filtrar_por_prioridad(tareas, prioridad). Las funciones agregar y pendientes mantienen compatibilidad. Las pruebas cubren regresión, valores válidos, inválidos y filtrado.

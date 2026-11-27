@@ -1,0 +1,6 @@
+Ensayo local de la fase de entrega:
+
+1. tareas.py compiló sin errores.
+2. evidencias/paquete-lab.zip contiene el módulo aprobado.
+
+El archivo demuestra el empaquetado local. No equivale a una ejecución remota de Actions y no instala ni despliega la aplicación en producción.
